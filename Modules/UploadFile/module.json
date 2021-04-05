@@ -1,0 +1,13 @@
+{
+    "name": "UploadFile",
+    "alias": "uploadfile",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UploadFile\\Providers\\UploadFileServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
