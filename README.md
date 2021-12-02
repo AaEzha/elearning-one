@@ -6,6 +6,10 @@ SB Admin 2 for Laravel 8.
 |-----------------|--------|
 | 8.0             | main   |
 
+## YouTube
+
+as shown at [YouTube](https://youtu.be/CHQEARD2brY)
+
 ## Requirements
 
 - PHP >= 7.3.0
